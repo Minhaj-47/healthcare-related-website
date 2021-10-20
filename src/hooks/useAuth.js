@@ -1,3 +1,4 @@
+// it is a hook for using the context api
 import { useContext } from "react"
 import { AuthContext } from "../context/AuthProvider"
 

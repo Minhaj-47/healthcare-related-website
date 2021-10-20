@@ -1,3 +1,4 @@
+// this is register section where you can register by submiting your email and pass
 import React from 'react';
 import useAuth from '../../hooks/useAuth';
 

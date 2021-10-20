@@ -1,3 +1,4 @@
+// firebase config file
 const firebaseConfig = {
     apiKey: "AIzaSyAMcI2Jmd92Gk9ZF-glXu1MyCeIzBSL4TU",
     authDomain: "my-clinic-6103d.firebaseapp.com",

@@ -1,3 +1,4 @@
+// all firebase authentication related work is here such as signin and registratin with email and all
 import { useEffect, useState } from "react"
 import { getAuth, signInWithPopup, signOut, GoogleAuthProvider, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile } from 'firebase/auth'
 import initializeAuthentication from "../firebase/firebase.init";

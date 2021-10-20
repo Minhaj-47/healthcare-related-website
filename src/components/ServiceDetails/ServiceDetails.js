@@ -1,3 +1,4 @@
+// by clicking view more buttom you can see this dynamic route information
 import React, { useEffect, useState } from 'react';
 import { Card, Col } from 'react-bootstrap';
 import { useParams } from 'react-router';
